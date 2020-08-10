@@ -151,7 +151,7 @@ i.fa-plus {
 }
 @media (max-width: 32rem) {
   html {
-    font-size: 45.5%;
+    font-size: 42.5%;
   }
   .navbar-toggler {
     margin-top: 4rem;
@@ -171,7 +171,7 @@ i.fa-plus {
     display: flex;
     margin-top: 2rem;
     padding-right: 0;
-    padding: 1.3rem;
+    padding: 1.5rem;
   }
   .btn-wrapper {
     max-width: 100%;
@@ -180,5 +180,8 @@ i.fa-plus {
   .main-wrapper .header {
     padding: 1rem 1.5rem;
     margin-bottom: .5rem;
+  }
+  .square_btn {
+    padding: .5rem 1.3rem;
   }
 }
